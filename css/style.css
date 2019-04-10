@@ -1,0 +1,51 @@
+#body {
+    position: relative;
+    top:0px;
+    left: 0px;
+    bottom: 0px;
+    right: 0px;
+}
+
+
+
+#eyes {
+    position: absolute;
+    z-index: 0;
+  top:195px;
+  left:140px;
+   
+}
+
+#hat{
+    position: absolute;
+
+   top: 5px;
+   left: 15px;
+   
+
+}
+#mouth {
+    position: absolute;
+    z-index:1;
+    top: 450px;
+    left: 150px;
+   
+}
+#mustache {
+    position: absolute;
+    z-index:2;
+    top: 360px;
+    left: 80px;
+}
+#nose {
+    position: absolute;
+    z-index:3;
+    top: 280px;
+    left: 150px
+}
+#shoes {
+    position: absolute;
+    z-index:4;
+    top: 550px;
+    left: 20px;
+}
